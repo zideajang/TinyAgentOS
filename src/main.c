@@ -1,5 +1,5 @@
-#include<stdio.h>
-
+// src/main.c
+#include "memory/"
 int main(int argc, char const *argv[])
 {
     printf("hello world\n");
